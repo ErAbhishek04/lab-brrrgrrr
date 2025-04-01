@@ -1,4 +1,4 @@
-![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
+
 
 # Project a FoodChain App | BRRRGRRR
 
